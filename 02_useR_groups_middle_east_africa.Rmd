@@ -30,7 +30,7 @@ knit: "bookdown::preview_chapter"
   * Casablanca: [Casablanca R Users Group](https://www.meetup.com/Casablanca-R-Users-Group/)
 
 ### Nigeria `r edit_btn`
-
+  * Lagos : [Lagos R Users Group](https://www.meetup.com/LagosRUsers)
   * Offa: [Offa R Users Group](https://www.meetup.com/FEDPOFA-R-Users-Group/)
 
 ### Saudi Arabia `r edit_btn`
